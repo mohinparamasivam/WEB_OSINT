@@ -1,6 +1,3 @@
-# WEB_OSINT
-
-
 <h2> Description : Enumerate Subdomains, Take Screenshots of Webservers, Perform Port Scanning without interaction</h2>
 
 <h3> Usage : python3 web_osint.py -d <domain> </h3>
