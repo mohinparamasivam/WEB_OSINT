@@ -13,7 +13,7 @@ if len(sys.argv)==1:
 	parser.print_help()
 	sys.exit(1)
 
-print("/n")	
+print("\n")	
 print ("                                                                       ")
 print ("                                                                       ")
 print ("            ##########################################################" )       
