@@ -13,6 +13,17 @@ if len(sys.argv)==1:
 	parser.print_help()
 	sys.exit(1)
 
+print("/n")	
+print ("                                                                       ")
+print ("                                                                       ")
+print ("            ##########################################################" )       
+print ("            #                                                        #" )        
+print ("            #              	    WEB OSINT             	     #" ) 
+print ("            #                                                        #" )                            
+print ("            #         Author : Mohin Paramasivam   (Shad0wQu35t)     #" )       
+print ("            #                                                        #" )       
+print ("            ##########################################################" )    
+
 print("\n")
 print("\033[1;34;40m  Installing Dependencies \033[0m ")
 print("\n")
