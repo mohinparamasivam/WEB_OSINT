@@ -17,6 +17,7 @@ print("\n")
 print("\033[1;34;40m  Installing Dependencies \033[0m ")
 print("\n")
 
+os.system("apt-get update")
 os.system("apt install subfinder")
 print(" \033[1;34;40m subfinder Installed \033[0m ")
 time.sleep(1)
